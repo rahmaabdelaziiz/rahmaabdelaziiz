@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **anything :')**
 
-- 📫 How to reach me **rahmaabdelaziiz@gmail.com**
+- 📫 **rahmaabdelaziiz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
