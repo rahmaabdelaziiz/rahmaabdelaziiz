@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rahma</h1>
 <h3 align="center">A frontend developer from Algeria</h3>
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 Currently learning **NextJs**
 
 - 💬 Ask me about **Anything :')**
 
-- 📫 How to reach me **rahmaabdelaziiz@gmail.com**
+- 📫 **rahmaabdelaziiz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
