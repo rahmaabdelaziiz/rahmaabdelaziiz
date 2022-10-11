@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahma</h1>
 <h3 align="center">A frontend developer from Algeria</h3>
-<img alig="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
+<img alig="right" alt="coding" width="900" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 
 - 🔭 I’m currently working at **NeoFintech**
 
@@ -8,9 +8,9 @@
 
 - 💬 Ask me about **Anything :')**
 
-- 📫 How to reach me **rahmaabdelaziiz@gmail.com**
+- 📫 **rahmaabdelaziiz@gmail.com**
 
-- ⚡ Fun fact **I've never tried coffee :D**
+- ⚡ Fun fact : **I've never tried coffee :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
