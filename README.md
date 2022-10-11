@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahma</h1>
 <h3 align="center">A frontend developer from Algeria</h3>
-<img alig="center" alt="coding" width="500"  src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
+<img alig="center" alt="coding" width="1000" height="500"  src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 
 - 🔭 I’m currently working at **NeoFintech**
 
